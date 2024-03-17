@@ -18,8 +18,15 @@ My own Chatgpt using the OpenAI API. I am using OpenAI API to make my own ChatGp
 
 ## SnapShots
 
-
 ![image](https://github.com/Ibraheemn13/Tango/assets/68946009/70869a44-320a-404b-8703-991dd9406a58)
+
+
+## Video
+
+
+
+https://github.com/Ibraheemn13/Tango/assets/68946009/7881a388-6605-44f8-9018-bbe88dc7271d
+
 
 
 ## License
