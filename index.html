@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>TANGO</title>
+</head>
+<body class="body">
+    <div class="navbar-brand tango"><b>TANGO</b></div>
+    
+    
+    <center>
+            <div class="GptDiv col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+                <h1>WELCOME to TANGO!</h1>
+                <h3>Unleash the power of AI with tango</h3>
+                <label for="prompt">Prompt</label>
+                <br>
+                <input class= "prompt" type="text" id="prompt" name="prompt" placeholder="Enter your prompt here">
+                <button type="submit" class="btn btn-primary" onclick="getResult()">GENERATE</button>
+                <br> <br>
+                <label for="Result">Result</label>
+                <br>
+                <textarea class="Result" id="Result" placeholder="Generated text will appear here..." readonly></textarea>
+                <br>
+            </div>
+    </center>
+
+    <script src="script.js"></script>
+</body>
+</html>

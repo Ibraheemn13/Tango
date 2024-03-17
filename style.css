@@ -1,0 +1,36 @@
+.body{
+    background-image:url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tango{
+    color: orange;
+    margin-bottom: 10px;
+    font-size: xx-large;
+}
+.GptDiv{
+    color: ghostwhite;
+    width: 1000px;
+    height: 560px;
+    text-align: center;
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.prompt{
+    color: black;
+    margin-right: 15px;
+    width: 780px;
+    border: 2px;
+    border-radius: 5px;
+}
+
+.Result{
+    color: black;
+    width: 900px;
+    height: 300px;
+    border: 2px;
+    border-radius: 5px;
+}
+
